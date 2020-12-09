@@ -9,13 +9,7 @@ public class ejercicio2 {
     switch(numeroPalo) {
       case 1:
         palo = "picas";
-        break;
-      case 2:
-        palo = "corazones";
-        break;
-      case 3:
-        palo = "diamantes";
-        break;
+        break;;
       case 4:
         palo = "tréboles";
       
